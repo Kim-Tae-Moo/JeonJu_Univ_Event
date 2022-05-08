@@ -3,7 +3,7 @@ It is place for My Kotlin study.
 
 I will be update everyday, but contents will update to apart.
 
-# development environment
+# Development environment
 
 IDE = Intellij Idea community edition
 
