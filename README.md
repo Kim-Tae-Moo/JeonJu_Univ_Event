@@ -1,4 +1,4 @@
-# JeonJu_Univ_Event
+# JeonJu Univ, A Event of Department of Computer Engineering
 It is place for My Kotlin study.
 
 I will be update everyday, but contents will update to apart.
@@ -24,3 +24,6 @@ Test Framework -> JUnit5
 Project -> src -> main -> kotlin -> Main.kt
 
 and paste it.
+
+# What I upload?
+A simple Kotlin code.
